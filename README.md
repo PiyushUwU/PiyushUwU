@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyushUwU or Piyush , I am just a random High Schooler
-- 👀 I’m interested in watching animes and doing some random stuff ...
-- 🌱 I’m currently learning java ...
+- 👀 I’m interested in watching animes and doing some random stuff . . .
+- 🌱 I’m currently learning java . . .
 - 📫 How to reach me instagram - discordo_piyush
 
 <!---
